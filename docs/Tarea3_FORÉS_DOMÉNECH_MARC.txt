@@ -1,0 +1,21 @@
+- Enlace del diseño en OnShape (Prac3_Maceta_MarcForés):
+
+https://cad.onshape.com/documents/c07e2f417ccc9aa3d2aded51/w/ac179414de4de1c3c01bd538/e/726a425e1486df67e639a935?renderMode=0&uiState=6728bb08c9bcf9273a020a7c
+
+- Detalles de diseño:
+
+El tamaño de la maceta diseñada, en la generación original de Onshape, es de: 444 mm en el eje Z, 277.77 mm en el eje Y, 277.77 mm en el eje X. No obstante, al obtener e importar el fichero en Bambu Studios, se ha debido de reescalar con las siguientes medidas para que pueda ser laminado en la placa: 250 mm en el eje Z, 156.4 mm en el eje Y, 156.4 mm en el eje X.
+
+Por otra parte, los motivos decorativos y posibles detalles técnicos empleados han seguido un patrón bastante sencillo y llamativo (u original) al mismo tiempo, pues mediante un continuo diseño de bocetos geométricos, y creación de nuevos planos paralelos con la herramienta de Proyect, solo se ha debido de modificar las dimensiones por niveles de los bocetos proyectados, y de esta forma otorgar la forma de maceta deseada con un último uso de Loft para concatenar las partes, y Shell (si bien la maceta debe estar hueca por dentro). 
+
+- Elección del material:
+
+Tras proceder con la selección del tipo de Impresora Bambu Lab P1S 0.4, con la placa PEI texturizada, el filamento en mi caso es de Bambu PLA Matte. Esta decisión viene determinada por el deseo de un acabado tipo Mate, con, tal vez y para este diseño particular, líneas de impresión menos notables. 
+
+- Estrategias reducción tiempo de impresión:
+
+En el apartado Fuerza, se establecen todos los valores de Paredes y Capas en 2 mm. Además, el Espesor de las cubiertas y carcasas se define en 0 mm. Sobre los patrones de las superficies, se ha seleccionado el tipo Rectilíneo. Finalmente, en cuanto a la Densidad del Relleno queda establecio en un 5%.
+
+- Duración de impresión y peso de filamento:
+
+La duración fianl de impresión del modelo es de 4 horas 30 minutos. Y por lo que respecta al peso del filamento total, es de 183 gramos.

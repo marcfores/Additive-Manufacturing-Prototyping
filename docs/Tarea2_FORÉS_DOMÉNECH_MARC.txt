@@ -1,0 +1,34 @@
+Pasos seguidos para modificar las dimensiones del objeto:
+
+- Reescalado del Modelo:
+
+1. Importación el archivo STL en Bambu Studio y función de escalado para ajustar la altura a 100 mm.
+2. Manteniendo la opción de "Escalado uniforme", ingreso de la altura deseada en el eje Z, asegurando que las proporciones del modelo no se distorsionaran.
+
+
+Para optimizar el tiempo de impresión sin sacrificar la calidad, he implementado las siguientes estrategias:
+
+- Ajuste de la Altura de Capa:
+
+1. Una altura de capa de 0.2 mm en lugar de 0.1 mm. Esto reduce significativamente el número de capas necesarias y, por ende, el tiempo de impresión.
+
+- Densidad de Relleno:
+
+1. Elección de un relleno del 10%, suficiente para mantener la integridad del modelo sin incrementar el tiempo de impresión innecesariamente. Esto permite que la pieza sea más ligera y rápida de imprimir.
+
+- Optimización de Soportes:
+
+1. Análisis del modelo para determinar si realmente necesitaba soportes. En las áreas donde era posible evitar su uso, eliminé los soportes, lo que redujo el tiempo y el material consumido.
+
+Características apartado Fuerza de Práctica 1 (base sobre las últimos modelos diseñados):
+
+1. Establecimiento de bucles de pared a 2.
+2. Capas inferiores y superiores a la cubierta definido en 2.
+3. Espesores tanto de carcasa interior como superior a la cubierta en 0 mm.
+4. Patrones de superficie en las capas en el modo Rectilíneo Adaptativo (este patrón es rápido de imprimir ya que consiste en líneas rectas. Menos movimientos complejos del extrusor significan menos tiempo de impresión)
+5. Patrón de relleno Cúbico Adaptativo
+
+
+- En cuanto a la duración total de impresión, mi figura responde a: 1 hora y 34 minutos
+
+- Peso del filamento total: 50,68 gramos
