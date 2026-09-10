@@ -1,8 +1,8 @@
 # Additive Manufacturing & Rapid Prototyping
 
-This repository serves as a portfolio of 3D modeling and additive manufacturing projects, focusing on Design for Additive Manufacturing (DfAM) principles. 
+This repository serves as a portfolio of 3D modeling and additive manufacturing projects developed during an academic **3D Printing Workshop**. 
 
-The projects demonstrate a complete workflow from conceptual CAD design to advanced slicer optimization for rapid prototyping. These skills are highly transferable to hardware prototyping in fields like immersive media and acoustic enclosure design.
+Focusing on Design for Additive Manufacturing (DfAM) principles, these projects demonstrate a complete workflow from conceptual CAD design to advanced slicer optimization for rapid prototyping. These skills are highly transferable to hardware prototyping in fields like immersive media and acoustic enclosure design.
 
 ## Core Competencies & Methodologies
 
